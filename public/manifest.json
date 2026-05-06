@@ -1,0 +1,10 @@
+{
+  "name": "Pointeuse",
+  "short_name": "Pointeuse",
+  "description": "Suivi des horaires de travail",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait"
+}
